@@ -13,6 +13,15 @@ Run these two commands in Claude Code:
 /plugin install experiment-card@novemberfive
 ```
 
+### Claude desktop app
+
+You need a paid Claude plan (Pro, Max, Team, or Enterprise).
+
+1. Open **Customize** and go to the **Plugins** tab.
+2. Click **Add**, then select **Add marketplace**.
+3. Under **Add from a repository**, enter `novemberfiveco/experiment-card-skill`.
+4. Find "experiment-card" in the new marketplace and click **Add**.
+
 ### Codex
 
 Run these two commands in your terminal:
