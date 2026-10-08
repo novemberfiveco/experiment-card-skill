@@ -22,6 +22,18 @@ codex plugin marketplace add novemberfiveco/experiment-card-skill
 codex plugin add experiment-card@novemberfive
 ```
 
+### ChatGPT desktop app
+
+1. Run this command in your terminal:
+
+   ```bash
+   codex plugin marketplace add novemberfiveco/experiment-card-skill
+   ```
+
+2. Restart the ChatGPT desktop app.
+3. Open the Plugins Directory and select the "November Five" marketplace.
+4. Install the "experiment-card" plugin.
+
 ## Use
 
 Describe the assumption you want to test, for example "I want to know if customers will pay for X". Claude or Codex starts the skill and builds the card with you, one section at a time.
