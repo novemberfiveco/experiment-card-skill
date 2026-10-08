@@ -1,5 +1,5 @@
 ---
-name: pm-experiment-card
+name: experiment-card
 description: >-
   Guides users through designing structured, unambiguous experiment cards for
   business idea validation (based on Validating Business Ideas / Strategyzer

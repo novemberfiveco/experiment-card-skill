@@ -1,7 +1,7 @@
 {
   "name": "experiment-card",
   "description": "Design structured, testable experiment cards for business idea validation (Strategyzer method)",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": {
     "name": "November Five"
   },
