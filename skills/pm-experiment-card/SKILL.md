@@ -5,14 +5,12 @@ description: >-
   business idea validation (based on Validating Business Ideas / Strategyzer
   methodology). Use this skill whenever someone wants to turn a business idea,
   assumption, or hypothesis into a testable experiment -- even if they do not
-  use the word experiment. Not for market-sizing or competitive research -- see `pm-market-sizing` instead. Triggers include: I want to test if..., how do I
+  use the word experiment. Not for market-sizing or competitive research. Triggers include: I want to test if..., how do I
   validate this idea, design an experiment for..., help me build an experiment
   card, I want to run an A/B test for my business, we have an assumption we
   need to validate, help us decide if we should build X, I want to know if
   customers will pay for Y. Also trigger when someone describes a business
-  assumption, risk, or uncertainty and asks how to move forward. Sits in the
-  Prove mode of the Product Engine, turning a Frame/Focus assumption into a
-  concrete, pre-committed test.
+  assumption, risk, or uncertainty and asks how to move forward.
 ---
 
 # Experiment Card
